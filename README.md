@@ -1,2 +1,2 @@
-# ahk_for_adom
-My Autohotkey script for ADOM
+# Autohotkey script for Ancient Domain Of Mystery
+Just a template.
